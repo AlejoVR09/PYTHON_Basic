@@ -1,7 +1,9 @@
 import random
 choices=('Piedra', 'Papel', 'Tijera')
 
-
+"""
+Proyecto: Piedra, papel o tijera, uso practico de sentencias basicas del lenguaje como las estructuras de control, hecho para un solo intento
+"""
 rounds=1
 while True:
   user_choice=input("Elija la opcion: ")
